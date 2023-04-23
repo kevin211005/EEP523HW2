@@ -1,0 +1,14 @@
+{
+  "name": "FaceDetectApp1",
+  "displayName": "FaceDetectApp1",
+  "expo": {
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow $(PRODUCT_NAME) to access your camera."
+        }
+      ]
+    ]
+  }
+}
